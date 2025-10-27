@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="160" viewBox="0 0 880 160" role="img" aria-label="Terminal - Dracula theme">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#282a36"/>
+      <stop offset="1" stop-color="#21222c"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Window -->
+  <rect rx="12" ry="12" width="880" height="160" fill="url(#bg)"/>
+
+  <!-- Top bar -->
+  <rect x="0" y="0" width="880" height="34" rx="12" ry="12" fill="#1e1f29"/>
+  <!-- traffic lights -->
+  <circle cx="22" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="44" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="66" cy="17" r="6" fill="#27c93f"/>
+
+  <!-- Terminal content -->
+  <g font-family="Menlo, Monaco, 'Courier New', monospace" font-size="15">
+    <!-- prompt -->
+    <text x="28" y="62" fill="#f8f8f2" font-weight="700">mwasifanwar@dracula</text>
+    <text x="310" y="62" fill="#8b949e">:~$</text>
+
+    <!-- lines -->
+    <text x="28" y="92" fill="#6272a4">whoami</text>
+    <text x="150" y="92" fill="#f1fa8c">mwasifanwar</text>
+
+    <text x="28" y="118" fill="#6272a4">skills</text>
+    <text x="110" y="118" fill="#8be9fd">Python • Computer Vision • ML • React • Docker</text>
+
+    <!-- cursor block -->
+    <rect x="342" y="48" width="8" height="18" rx="1" ry="1" fill="#ff79c6" opacity="0.95"/>
+  </g>
+</svg>
