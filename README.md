@@ -2,8 +2,13 @@
 
 <!-- 🎬 Master Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header1.gif" width="100%" alt="Muhammad Wasif Header Animation" />
+  <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header1.gif"
+       alt="Muhammad Wasif Header Animation"
+       width="100%"
+       height="220px"
+       style="object-fit: cover; border-radius: 8px;" />
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
