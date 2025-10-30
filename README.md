@@ -4,7 +4,7 @@
 
 <!-- 🎬 Master Animated Header -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFua2NqbWlsMGZ0M3dsbHV6eXEyZGxyaHI5YjhucTRtZmFua3JrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif" alt="AI Coding Animation" width="100%" />
+  <img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTFua2NqbWlsMGZ0M3dsbHV6eXEyZGxyaHI5YjhucTRtZmFua3JrZCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3ov9jNziFTMfzSumAw/giphy.gif](https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif)" alt="AI Coding Animation" width="100%" />
 </p>
 
 <!-- 🧠 Intro -->
