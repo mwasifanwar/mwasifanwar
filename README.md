@@ -5,7 +5,7 @@
 <!-- 🎬 Master Animated Header -->
 <p align="center">
   <img
-    src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif"
+    src="[https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif](https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif)"
     alt="AI Coding Vibe"
     width="100%"
   />
