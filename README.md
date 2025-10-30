@@ -4,12 +4,13 @@
 
 <!-- 🎬 Master Animated Header -->
 <p align="center">
-  <img
-    src="[https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif](https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif)"
-    alt="AI Coding Vibe"
-    width="100%"
-  />
+  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="AI Coding Vibe" width="100%" />
 </p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
+
 
 <!-- 🧠 Intro -->
 <h1 align="center">Hi 👋, I'm <span style="color:#00E6FF;">Muhammad Wasif</span></h1>
