@@ -1,10 +1,8 @@
-<!-- ========================================================= -->
-<!-- 💫 GOD-TIER GITHUB PROFILE README FOR MUHAMMAD WASIF -->
-<!-- ========================================================= -->
+
 
 <!-- 🎬 Master Animated Header -->
 <p align="center">
-  <img src="https://nationalcioreview.com/wp-content/uploads/2025/09/TNCR-graphics-KB-2.gif" alt="AI Coding Vibe" width="100%" />
+  <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header.gif" width="100%" alt="Muhammad Wasif Header Animation" />
 </p>
 
 <p align="center">
