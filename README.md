@@ -2,10 +2,10 @@
 
 <!-- 🎬 Master Animated Header -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header1.gif"
+  <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header22.gif"
        alt="Muhammad Wasif Header Animation"
        width="100%"
-       height="320px"
+       height="340px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
