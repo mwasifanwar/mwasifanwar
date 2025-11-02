@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/mwasifanwar/mwasifanwar/main/assets/header22.gif"
        alt="Muhammad Wasif Header Animation"
        width="100%"
-       height="340px"
+       height="360px"
        style="object-fit: cover; border-radius: 8px;" />
 </p>
 
